@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="500" viewBox="0 0 1500 500">
+  <defs>
+    <filter id="Rectangle_24" x="397.48" y="-145.506" width="1567.038" height="1210.013" filterUnits="userSpaceOnUse">
+      <feOffset dy="-18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#2b9eb3" flood-opacity="0.169"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Bryan_Murphy_Dev_-_GitHub_Banner">
+      <rect width="1500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Bryan_Murphy_Dev_-_GitHub_Banner" data-name="Bryan Murphy Dev - GitHub Banner" clip-path="url(#clip-Bryan_Murphy_Dev_-_GitHub_Banner)">
+    <rect width="1500" height="500" fill="#dbd5b5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24)">
+      <rect id="Rectangle_24-2" data-name="Rectangle 24" width="1500" height="500" transform="translate(406.48 631.49) rotate(-30)" fill="#2b9eb3"/>
+    </g>
+    <text id="Bryan_Murphy" data-name="Bryan Murphy" transform="translate(143 179)" fill="#f8333c" font-size="80" font-family="FuturaPT-HeavyObl, Futura PT" font-weight="800" font-style="oblique"><tspan x="0" y="0">Bryan Murphy</tspan></text>
+    <text id="Design_Focused_Full_Stack_Engineer" data-name="Design Focused Full Stack Engineer" transform="translate(322 208)" fill="#f8333c" font-size="48" font-family="FuturaPT-BookObl, Futura PT" font-style="oblique"><tspan x="0" y="47">Design Focused Full Stack Engineer</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 85)">
+      <path id="linkedin-in-brands" d="M8.058,36.01H.595V11.975H8.058ZM4.322,8.7A4.343,4.343,0,1,1,8.645,4.333,4.359,4.359,0,0,1,4.322,8.7ZM35.992,36.01H28.544V24.31c0-2.788-.056-6.364-3.88-6.364-3.88,0-4.475,3.03-4.475,6.164v11.9H12.733V11.975h7.158v3.279H20a7.842,7.842,0,0,1,7.062-3.881c7.554,0,8.942,4.974,8.942,11.435v13.2Z" transform="translate(1163 231.99)" fill="#fff"/>
+      <text id="_in_murphyb2_" data-name="/in/murphyb2/" transform="translate(1235 260)" fill="#fff" font-size="28" font-family="FuturaPT-BookObl, Futura PT" font-style="oblique"><tspan x="0" y="0">/in/murphyb2/</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 -168)">
+      <path id="bold-solid" d="M43.352,48.554a9.8,9.8,0,0,0,2.17-5.24A10.292,10.292,0,0,0,35.311,32H19.286A1.286,1.286,0,0,0,18,33.286v3.857a1.286,1.286,0,0,0,1.286,1.286h2.561V61.571H19.286A1.286,1.286,0,0,0,18,62.857v3.857A1.286,1.286,0,0,0,19.286,68h16.82a11.237,11.237,0,0,0,11.33-9.836A10.888,10.888,0,0,0,43.352,48.554ZM28.258,38.429h7.052a3.857,3.857,0,0,1,0,7.714H28.258Zm7.052,23.143H28.258v-9h7.052a4.5,4.5,0,1,1,0,9Z" transform="translate(1148 369)" fill="#fff"/>
+      <text id="bryan-murphy-dev.com" transform="translate(1234 429)" fill="#fff" font-size="28" font-family="FuturaPT-BookObl, Futura PT" font-style="oblique"><tspan x="0" y="0">bryan-murphy-dev.com</tspan></text>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 78)">
+      <path id="instagram-brands" d="M17.929,40.6a9.23,9.23,0,1,0,9.228,9.23A9.214,9.214,0,0,0,17.929,40.6Zm0,15.231a6,6,0,1,1,6-6,6.011,6.011,0,0,1-6,6ZM29.687,40.217a2.152,2.152,0,1,1-2.152-2.153A2.148,2.148,0,0,1,29.687,40.217ZM35.8,42.4c-.137-2.884-.8-5.438-2.907-7.543S28.233,32.1,25.35,31.952c-2.972-.169-11.878-.169-14.85,0-2.875.137-5.429.8-7.541,2.9S.2,39.511.051,42.394c-.169,2.972-.169,11.881,0,14.853.137,2.884.8,5.438,2.907,7.543S7.617,67.554,10.5,67.7c2.972.169,11.878.169,14.85,0,2.883-.137,5.437-.8,7.541-2.908s2.763-4.659,2.907-7.543C35.967,54.275,35.967,45.375,35.8,42.4ZM31.96,60.437a6.074,6.074,0,0,1-3.421,3.422c-2.369.94-7.991.723-10.609.723s-8.248.209-10.609-.723A6.074,6.074,0,0,1,3.9,60.437c-.94-2.37-.723-7.993-.723-10.612s-.209-8.25.723-10.612A6.075,6.075,0,0,1,7.32,35.791c2.369-.94,7.991-.723,10.609-.723s8.248-.209,10.609.723a6.074,6.074,0,0,1,3.421,3.422c.94,2.37.723,7.993.723,10.612S32.9,58.075,31.96,60.437Z" transform="translate(1163.075 292.175)" fill="#fff"/>
+      <text id="_thecrimsonnchin" data-name="@thecrimsonnchin" transform="translate(1234 352)" fill="#fff" font-size="28" font-family="FuturaPT-BookObl, Futura PT" font-style="oblique"><tspan x="0" y="0">@thecrimsonnchin</tspan></text>
+    </g>
+  </g>
+</svg>
