@@ -1,4 +1,4 @@
-[![Social banner for murphyb2](assets/GitHubSocialBanner.svg)](https://www.bryan-murphy-dev.com)
+[![Social banner for murphyb2](assets/GitHubSocialBanner.svg)](http://www.bryan-murphy-dev.com)
 ### Hi there 👋
 
 <!--
