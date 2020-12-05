@@ -1,3 +1,4 @@
+[![Social banner for murphyb2](https://github.com/murphyb2/murphyb2/raw/master/assets/header-banner.svg)](https://bryan-murphy-dev.com)
 ### Hi there 👋
 
 <!--
