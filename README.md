@@ -4,7 +4,7 @@
 
 → I’m currently working on a client project using <img src="assets/icons/Gatsby_Monogram.svg" alt="Gatsby.js" width="15px"/> Gatsby.js and redesigning my portfolio with <img src="assets/icons/xd.svg" alt="Adobe XD" width="15px"/> Adobe XD
 
-→ I’m currently learning <img src="assets/icons/nextjs-logo.png" alt="Next.js" width="15px" /> Next.js, TypeScript <img src="assets/icons/ts-logo-128.svg" alt="TypeScript" width="15px" /> and <img src="assets/icons/graphql-icon.svg" alt="GraphQL" width="15px" /> GraphQL for my latest and greatest portfolio
+→ I’m currently learning <img src="assets/icons/nextjs-logo.png" alt="Next.js" width="15px" /> Next.js, <img src="assets/icons/ts-logo-128.svg" alt="TypeScript" width="15px" /> TypeScript and <img src="assets/icons/graphql-icon.svg" alt="GraphQL" width="15px" /> GraphQL for my latest and greatest portfolio
 
 <!--
 **murphyb2/murphyb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
